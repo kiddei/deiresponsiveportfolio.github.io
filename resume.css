@@ -222,3 +222,13 @@ li.skills{
   } 
 
 }
+
+@media (max-width:480px) {
+  .resume-title{
+    margin-right: 0px;
+  }
+
+  body{
+    width: 524px;
+  }
+}
